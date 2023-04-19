@@ -4,4 +4,12 @@ header {
 }
 
 .cabecalho-imagem{
-    width: 20% ;
+    width: 60% ;
+}
+.imagem-metalder{
+    width: 30%;
+}  
+.texto-pequeno{
+    font-size: 15px;
+
+} 
